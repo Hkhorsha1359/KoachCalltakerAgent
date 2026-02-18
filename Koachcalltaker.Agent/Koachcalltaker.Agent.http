@@ -1,0 +1,6 @@
+@Koachcalltaker.Agent_HostAddress = http://localhost:5239
+
+GET {{Koachcalltaker.Agent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

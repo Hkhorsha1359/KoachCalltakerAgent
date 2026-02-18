@@ -1,0 +1,40 @@
+{
+  "Companies": {
+    "4100": {
+      "CompanyName": "Silver Cab of PG / Taxi-Taxi",
+      "GreetingCompanyName": "Silver Cab of PG",
+      "ServiceArea": "Prince George's County (PG)",
+      "Tenant": "koach"
+    },
+    "5200": {
+      "CompanyName": "Diamond Cab of Baltimore City (DOB)",
+      "GreetingCompanyName": "Diamond Cab of Baltimore City",
+      "ServiceArea": "Baltimore City",
+      "Tenant": "DOB"
+    },
+    "5500": {
+      "CompanyName": "DC VIP Cab",
+      "GreetingCompanyName": "DC VIP Cab",
+      "ServiceArea": "Washington, DC",
+      "Tenant": "koach"
+    },
+    "5300": {
+      "CompanyName": "Diamond Cab of Anne Arundel County (DAA)",
+      "GreetingCompanyName": "Diamond Cab of Anne Arundel County",
+      "ServiceArea": "Anne Arundel County",
+      "Tenant": "koach"
+    },
+    "4643": {
+      "CompanyName": "Transport DC (TDC/TPDC)",
+      "GreetingCompanyName": "Transport DC",
+      "ServiceArea": "Transport DC program",
+      "Tenant": "koach"
+    },
+    "8888": {
+      "CompanyName": "Koach Test Company",
+      "GreetingCompanyName": "Koach Test",
+      "ServiceArea": "Test / Sandbox",
+      "Tenant": "koach"
+    }
+  }
+}

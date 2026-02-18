@@ -1,0 +1,34 @@
+{
+  "Agents": {
+    "A100": {
+      "Alias": "Sarah",
+      "OperatorNumber": "101",
+      "Duid": "101",
+      "AgentEmail": "apires1@koachapp.com"
+    },
+    "A101": {
+      "Alias": "Mike",
+      "OperatorNumber": "102",
+      "Duid": "102",
+      "AgentEmail": "apires2@koachapp.com"
+    },
+    "A102": {
+      "Alias": "Nina",
+      "OperatorNumber": "103",
+      "Duid": "103",
+      "AgentEmail": "apires3@koachapp.com"
+    },
+    "A103": {
+      "Alias": "Ariel",
+      "OperatorNumber": "104",
+      "Duid": "104",
+      "AgentEmail": "apires4@koachapp.com"
+    },
+    "A104": {
+      "Alias": "Sammy",
+      "OperatorNumber": "105",
+      "Duid": "105",
+      "AgentEmail": "apires5@koachapp.com"
+    }
+  }
+}
